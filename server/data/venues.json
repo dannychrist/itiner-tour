@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Commonwealth",
+    "url": "https://commonwealthbar.ca/",
+    "country": "Canada",
+    "province": "Alberta",
+    "city": "Calgary",
+    "_id": 100,
+    "coordinates": {
+      "lat": 51.0997,
+      "lng": 113.9778
+    }
+  },
+  {
+    "name": "Ship and Anchor",
+    "url": "https://shipandanchor.com/",
+    "country": "Canada",
+    "province": "Alberta",
+    "city": "Calgary",
+    "_id": 101,
+    "coordinates": {
+      "lat": 51.0380,
+      "lng": 114.0738
+    }
+  },
+  {
+    "name": "Starlite Room",
+    "url": "https://www.starliteroom.ca/",
+    "country": "Canada",
+    "province": "Alberta",
+    "city": "Edmonton",
+    "_id": 102,
+    "coordinates": {
+      "lat": 53.539862,
+      "lng": -113.496077
+    }
+  },
+  {
+    "name": "Union Hall",
+    "url": "https://www.unionhall.ca/",
+    "country": "Canada",
+    "province": "Alberta",
+    "city": "Edmonton",
+    "_id": 103,
+    "coordinates": {
+      "lat": 53.4986,
+      "lng": 113.4875
+    }
+  },
+  {
+    "name": "Commodore Ballroom",
+    "url": "http://www.commodoreballroom.com/",
+    "country": "Canada",
+    "province": "British Columbia",
+    "city": "Vancouver",
+    "_id": 104,
+    "coordinates": {
+      "lat": 49.2806,
+      "lng": 123.1208
+    }
+  },
+  {
+    "name": "Biltmore Cabaret",
+    "url": "https://biltmorecabaret.com/",
+    "country": "Canada",
+    "province": "British Columbia",
+    "city": "Vancouver",
+    "_id": 105,
+    "coordinates": {
+      "lat": 49.2605,
+      "lng": 123.0965
+    }
+  },
+  {
+    "name": "Distrikt",
+    "url": "https://strathconahotel.com/venue/distrikt/",
+    "country": "Canada",
+    "province": "British Columbia",
+    "city": "Victoria",
+    "_id": 106,
+    "coordinates": {
+      "lat": 48.4232,
+      "lng": 123.3655
+    }
+  },
+  {
+    "name": "V-Lounge",
+    "url": "http://victoriamusicscene.com/venue/v-lounge/",
+    "country": "Canada",
+    "province": "British Columbia",
+    "city": "Victoria",
+    "_id": 107,
+    "coordinates": {
+      "lat": 48.4514,
+      "lng": 123.3751
+    }
+  }
+]
